@@ -1,0 +1,13 @@
+.forms {
+  border: 3px solid black;
+  background-color: rgb(221, 227, 226);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.options {
+  margin: 30px;
+}/*# sourceMappingURL=style.css.map */
